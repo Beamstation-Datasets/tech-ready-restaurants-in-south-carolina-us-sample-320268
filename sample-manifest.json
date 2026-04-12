@@ -1,0 +1,12 @@
+{
+  "export_job_id": "0bc07633-83a4-46b1-9802-7ea99598eb50",
+  "id_short": 320268,
+  "published_at": "2026-04-12T07:14:10Z",
+  "repo_name": "tech-ready-restaurants-in-south-carolina-us-sample-320268",
+  "sample_asset_name": "beamstation_320268_restaurants-us-sc_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/320268/beamstation_320268_restaurants-us-sc_SAMPLE_DIST.csv",
+  "sample_records": 7,
+  "sample_sha256": "337be85ec0db23baf386710735c31d3568f48ff57e64d3265a2630b0ebe381f3",
+  "sample_size_bytes": 41655,
+  "total_records": 76
+}
