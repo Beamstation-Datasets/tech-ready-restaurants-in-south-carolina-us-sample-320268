@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in South Carolina, US",
+  "export_job_id": "0bc07633-83a4-46b1-9802-7ea99598eb50",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 320268,
+  "location_name": "South Carolina",
+  "location_type": "state",
+  "repo_name": "tech-ready-restaurants-in-south-carolina-us-sample-320268",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/320268/beamstation_320268_restaurants-us-sc_SAMPLE_DIST.csv",
+  "sample_pct": 9.21,
+  "sample_records": 7,
+  "sample_sha256": "337be85ec0db23baf386710735c31d3568f48ff57e64d3265a2630b0ebe381f3",
+  "sample_size_bytes": 41655,
+  "total_records": 76,
+  "updated_at": "2026-04-08T07:05:54.177549+00:00"
+}
