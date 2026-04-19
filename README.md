@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in South Carolina, US
 
-> Free BeamStation sample export with 7 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `320268` |
 | Location | South Carolina |
 | Category | Restaurants |
-| Full dataset size | 76 records |
-| Free sample size | 7 records (9.21%) |
-| Last export | 2026-04-08T07:05:54.177549+00:00 |
+| Full dataset size | 49 records |
+| Free sample size | 4 records (8.16%) |
+| Last export | 2026-04-15T10:28:05.795488+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-south-carolina-us-sample-320268/releases/download/sample-latest/beamstation_320268_restaurants-us-sc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
